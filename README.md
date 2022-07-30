@@ -3,7 +3,7 @@
   <img src="/logo.png" alt="Pendrive Hacker" width="200">
 </h1>
 
-<p align="center">Scripts do Pendrive Hacker<br></p>
+<p align="center">Scripts do Digispark<br></p>
 
 ## Funcionalidades
 - [Trocar o Wallpaper](/Trocar_Wallpaper)
